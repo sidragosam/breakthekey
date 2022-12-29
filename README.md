@@ -1,6 +1,6 @@
-# Break The Bank Key in MTA:SA
+# Break The Bank Code in MTA:SA
 
-This is a resource when you have to break the bank vault key to be able to rob the vault.
+This is a resource when you have to break the bank vault code to be able to rob the vault.
 
 The server will generate a random number, and you have to guess it.
 
